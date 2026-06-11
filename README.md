@@ -267,12 +267,7 @@ Qualitative recommendation analysis revealed several interesting patterns.
 
 ## Repository Structure:
 
-```text
 netflix-recommendation-system/
-│
-├── data/
-│   ├── movie_titles.csv
-│   └── ratings_model.parquet
 │
 ├── notebooks/
 │   ├── data_processing_pipeline.ipynb
@@ -285,7 +280,6 @@ netflix-recommendation-system/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```
 
 ---
 
