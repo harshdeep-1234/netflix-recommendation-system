@@ -267,6 +267,7 @@ Qualitative recommendation analysis revealed several interesting patterns.
 
 ## Repository Structure:
 
+```text
 netflix-recommendation-system/
 │
 ├── notebooks/
@@ -280,6 +281,7 @@ netflix-recommendation-system/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ---
 
