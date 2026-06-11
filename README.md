@@ -330,6 +330,7 @@ Execute in the following order:
 ## Authors
 
 Harsh Deep
+&
 Anuprash Pattnaik
 
 Team Project – Netflix Recommendation System
