@@ -1,0 +1,5 @@
+Netflix Recommendation System Results
+-----------------------------------
+Item-CF RMSE: 1.0319
+SVD RMSE: 0.9579
+MAP@10: 0.8828

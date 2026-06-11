@@ -1,0 +1,31 @@
+user_type,user_id,movie_id,title,predicted_rating,train_pop,train_mean
+active user,2118461,4238,Inu-Yasha,5.0,181,4.657458563535911
+active user,2118461,3456,Lost: Season 1,5.0,177,4.728813559322034
+active user,2118461,1418,Inu-Yasha: The Movie 3: Swords of an Honorable Ruler,5.0,24,4.541666666666667
+active user,2118461,4041,Mobile Suit Gundam SEED,4.994756954998955,56,4.589285714285714
+active user,2118461,3928,Nip/Tuck: Season 2,4.948739227879404,251,4.402390438247012
+active user,2118461,159,Gentlemen of Fortune,4.940930375580452,17,4.411764705882353
+active user,2118461,1230,Carlos Mencia: Not for the Easily Offended: Live in San Jose,4.9344098541644605,22,4.318181818181818
+active user,2118461,2691,"Empires: The Medici, Godfathers of the Renaissance",4.907565636633584,61,4.229508196721311
+active user,2118461,3425,GoodFellas: Special Edition: Bonus Material,4.902758567553913,52,4.269230769230769
+active user,2118461,1109,My Fair Lady: Special Edition: Bonus Material,4.886705067245994,15,4.4
+moderate user,939,1476,Six Feet Under: Season 4,4.893277595878697,462,4.424242424242424
+moderate user,939,3456,Lost: Season 1,4.851919533017979,177,4.728813559322034
+moderate user,939,4427,The West Wing: Season 3,4.85110514416539,467,4.4796573875803
+moderate user,939,2102,The Simpsons: Season 6,4.821077338038967,482,4.4979253112033195
+moderate user,939,3498,Combat! Season 2: Mission 1,4.788818170838669,10,4.7
+moderate user,939,3290,"The Godfather, Part II",4.787916256546731,8337,4.4225740674103395
+moderate user,939,2452,Lord of the Rings: The Fellowship of the Ring,4.777532932620013,20130,4.438400397416791
+moderate user,939,595,Monarch of the Glen: Series 2,4.763512624831232,162,4.2592592592592595
+moderate user,939,359,Absolutely Fabulous: Series 5,4.761332621619264,476,4.222689075630252
+moderate user,939,2506,Inspector Morse 15: Masonic Mysteries,4.731779373876984,103,4.203883495145631
+aggressive rater,792248,4427,The West Wing: Season 3,3.0910766283620146,467,4.4796573875803
+aggressive rater,792248,2172,The Simpsons: Season 3,3.0701486617117175,2621,4.436856161770317
+aggressive rater,792248,3290,"The Godfather, Part II",3.0075472469905096,8337,4.4225740674103395
+aggressive rater,792248,2102,The Simpsons: Season 6,2.989981946118334,482,4.4979253112033195
+aggressive rater,792248,4353,Curb Your Enthusiasm: Season 3,2.986074051015464,883,4.354473386183465
+aggressive rater,792248,3046,The Simpsons: Treehouse of Horror,2.971224895488522,1697,4.397760754272245
+aggressive rater,792248,4054,House of Cards Trilogy I: House of Cards,2.9552699337730726,223,4.170403587443946
+aggressive rater,792248,3023,"Upstairs, Downstairs: Season 3",2.9539953977401554,197,4.025380710659898
+aggressive rater,792248,3662,House of Cards Trilogy II: To Play the King,2.940565144061371,190,4.242105263157895
+aggressive rater,792248,3523,Star Trek: The Next Generation: Season 6,2.9351770866859956,920,4.2771739130434785
