@@ -1,5 +1,37 @@
-Netflix Recommendation System Results
------------------------------------
+Netflix Recommendation System Results:
+
+Dataset:
+
+Ratings: 1,516,820
+Users: 25,023
+Movies: 996
+Sparsity: 98.43%
+
+Prediction Metrics:
+
 Item-CF RMSE: 1.0319
 SVD RMSE: 0.9579
-MAP@10: 0.8828
+
+Ranking Metrics:
+
+Raw SVD
+Precision@10: 0.0192
+Recall@10: 0.0177
+Coverage: 0.062
+
+Popularity Baseline
+Precision@10: 0.0734
+Recall@10: 0.1128
+Coverage: 0.017
+
+Best SVD + Popularity Filter:
+
+min_pop: 8000
+Precision@10: 0.0936
+Recall@10: 0.1261
+Coverage: 0.017
+
+Key Finding:
+
+Applying a popularity threshold (min_pop = 8000) improved ranking performance.
+The filtered SVD model outperformed the popularity baseline while maintaining similar coverage.
