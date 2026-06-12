@@ -267,6 +267,8 @@ Qualitative recommendation analysis revealed several interesting patterns.
 
 ## Repository Structure:
 
+## Repository Structure
+
 ```text
 netflix-recommendation-system/
 │
@@ -277,6 +279,9 @@ netflix-recommendation-system/
 ├── results/
 │   ├── evaluation_metrics.txt
 │   └── recommendation_examples.csv
+│
+├── Presentation_Netflix.pdf
+├── Technical_Report_Netflix.pdf
 │
 ├── README.md
 ├── requirements.txt
